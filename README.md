@@ -1,2 +1,2 @@
 # THE-PHANTM-API
- The all new aswome and op phantm api
+ The All New Phantm API
