@@ -77,5 +77,3 @@ def get_truth_or_dare_by_id(category, id):
     else:
         return Response('Not found', mimetype='text/plain'), 404
 
-if __name__ == '__main__':
-    app.run(debug=True)
